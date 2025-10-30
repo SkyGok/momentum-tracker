@@ -10,6 +10,7 @@ from datetime import datetime, timedelta, date
 import customtkinter as ctk
 from tkinter import messagebox
 from plyer import notification
+import pandas as pd
 import matplotlib.pyplot as plt
 
 # -----------------------
@@ -113,6 +114,32 @@ def next_quarter_seconds():
     else:
         next_time = now.replace(minute=next_quarter, second=0, microsecond=0)
     return (next_time - now).total_seconds()
+
+
+# -----------------------
+# Excel Saving
+# -----------------------
+
+data = []
+
+def save_entry(category, description):
+    global data
+    now = datetime.now()
+    entry = {
+        "Time": now.strftime("%H:%M"),
+        "Category": category,
+        "Description": description,
+        "Date": now.strftime("%Y-%m-%d")
+    }
+    data.append(entry)
+    
+    # Save to CSV every time
+    df = pd.DataFrame(data)
+    os.makedirs("reports", exist_ok=True)
+    file_name = f"reports/{now.strftime('%Y-%m-%d')}_report.xlsx"
+    df.to_excel(file_name, index=False)
+    print(f"Saved to {file_name}")
+
 
 # -----------------------
 # UI CLASSES
