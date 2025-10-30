@@ -1,4 +1,6 @@
 tk
 pandas
+customtkinter
+plyer
 openpyxl
 matplotlib
