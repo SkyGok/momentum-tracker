@@ -2,3 +2,4 @@ reports
 venv
 .vscode
 gitignore
+tracker_widget_trial.py
