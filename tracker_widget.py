@@ -5,9 +5,32 @@ import os
 from datetime import datetime
 import threading
 import time
+import sys
+import traceback
 
-# --- Setup ---
-os.makedirs("reports", exist_ok=True)
+# --- CONFIG ---
+BASE_DIR = os.path.expanduser("/home/gokhan/Side-Projects/momentum-tracker")
+REPORT_DIR = os.path.join(BASE_DIR, "reports")
+LOG_FILE = os.path.join(BASE_DIR, "tracker.log")
+
+os.makedirs(REPORT_DIR, exist_ok=True)
+
+# Redirect stdout/stderr to log file for debugging
+sys.stdout = open(LOG_FILE, "a")
+sys.stderr = sys.stdout
+
+def log(msg):
+    """Log messages with timestamps."""
+    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] {msg}")
+    sys.stdout.flush()
+
+def log_exception(e):
+    """Log exceptions to tracker.log."""
+    log(f"ERROR: {e}\n{traceback.format_exc()}")
+
+# Small startup delay (helps if Hyprland launches too early)
+time.sleep(3)
+
 data = []
 LOCK = threading.Lock()
 last_popup_time = None
@@ -15,16 +38,16 @@ last_popup_time = None
 def get_today_file():
     """Return today's Excel file path."""
     now = datetime.now()
-    return f"reports/{now.strftime('%Y-%m-%d')}_report.xlsx"
+    return os.path.join(REPORT_DIR, f"{now.strftime('%Y-%m-%d')}_report.xlsx")
 
 # --- Load today's data if file exists ---
 today_file = get_today_file()
 if os.path.exists(today_file):
     try:
         data = pd.read_excel(today_file).to_dict(orient="records")
-        print(f"Loaded {len(data)} previous entries from {today_file}")
+        log(f"Loaded {len(data)} previous entries from {today_file}")
     except Exception as e:
-        print(f"Error loading file: {e}")
+        log_exception(e)
 
 def save_entry(category, description):
     """Save a new entry to today's Excel report (create if missing)."""
@@ -42,15 +65,11 @@ def save_entry(category, description):
 
     df = pd.DataFrame(data)
     try:
-        # Create or overwrite the file for today
-        if not os.path.exists(today_file):
-            df.to_excel(today_file, index=False)
-            print(f"Created new report file: {today_file}")
-        else:
-            df.to_excel(today_file, index=False)
-            print(f"Updated report file: {today_file}")
+        df.to_excel(today_file, index=False)
+        log(f"Saved {len(data)} entries to {today_file}")
         messagebox.showinfo("Saved!", f"Entry saved under '{category}'.")
     except Exception as e:
+        log_exception(e)
         messagebox.showerror("Error", f"Could not save data:\n{e}")
 
 def show_popup():
@@ -106,6 +125,7 @@ def check_time():
             with LOCK:
                 if last_popup_time != now.strftime("%H:%M"):
                     last_popup_time = now.strftime("%H:%M")
+                    log(f"Triggering popup at {last_popup_time}")
                     root.after(0, show_popup)
             time.sleep(60)
         time.sleep(5)
@@ -132,6 +152,7 @@ def show_today_summary():
         messagebox.showinfo("Today's Summary",
                             f"Total Time Tracked: {total_time} min\n\n" + summary_text)
     except Exception as e:
+        log_exception(e)
         messagebox.showerror("Error", str(e))
 
 # --- UI Setup ---
@@ -155,4 +176,5 @@ tk.Label(root, text="Auto asks every 15 mins", bg="#e8f5e9",
 # --- Background Thread ---
 threading.Thread(target=check_time, daemon=True).start()
 
+log("Momentum Tracker started successfully.")
 root.mainloop()
