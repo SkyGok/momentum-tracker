@@ -1,0 +1,16 @@
+{
+  "app_name": "Momentum Tracker",
+  "interval_minutes": 15,
+  "popup_enabled": true,
+  "sound_enabled": false,
+  "theme": "dark",
+  "categories": [
+    "Working",
+    "Chilling",
+    "Gaming",
+    "Academics",
+    "Business"
+  ],
+  "auto_save": true,
+  "export_to_excel": false
+}
