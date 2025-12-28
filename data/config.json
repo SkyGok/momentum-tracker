@@ -2,14 +2,15 @@
   "app_name": "Momentum Tracker",
   "interval_minutes": 15,
   "popup_enabled": true,
-  "sound_enabled": false,
+  "sound_enabled": true,
   "theme": "dark",
   "categories": [
     "Working",
     "Chilling",
     "Gaming",
     "Academics",
-    "Business"
+    "Business",
+    "N8N-Dash"
   ],
   "auto_save": true,
   "export_to_excel": false

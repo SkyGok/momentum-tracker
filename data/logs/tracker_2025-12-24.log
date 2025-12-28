@@ -1,0 +1,156 @@
+[2025-12-24 00:07:28] [INFO] ==================================================
+[2025-12-24 00:07:28] [INFO] Momentum Tracker starting...
+[2025-12-24 00:07:28] [INFO] Database initialized successfully
+[2025-12-24 00:07:28] [INFO] Activity monitoring started
+[2025-12-24 00:07:28] [INFO] Application initialized successfully
+[2025-12-24 00:07:28] [INFO] Starting main loop
+[2025-12-24 00:15:03] [INFO] Triggering popup at 00:15
+[2025-12-24 00:30:03] [INFO] Triggering popup at 00:30
+[2025-12-24 00:30:44] [INFO] Added activity log: Chilling (15 min) at 2025-12-24 00:30:44.332153
+[2025-12-24 00:30:44] [INFO] Activity logged: Chilling - 
+[2025-12-24 00:45:03] [INFO] Triggering popup at 00:45
+[2025-12-24 00:52:07] [INFO] Added activity log: Working (15 min) at 2025-12-24 00:52:07.628662
+[2025-12-24 00:52:07] [INFO] Activity logged: Working - 
+[2025-12-24 01:00:04] [INFO] Triggering popup at 01:00
+[2025-12-24 01:10:17] [INFO] Added activity log: Chilling (15 min) at 2025-12-24 01:10:17.768181
+[2025-12-24 01:10:17] [INFO] Activity logged: Chilling - 
+[2025-12-24 01:15:04] [INFO] Triggering popup at 01:15
+[2025-12-24 01:16:01] [INFO] Added activity log: Chilling (15 min) at 2025-12-24 01:16:01.707561
+[2025-12-24 01:16:01] [INFO] Activity logged: Chilling - 
+[2025-12-24 10:25:53] [INFO] ==================================================
+[2025-12-24 10:25:53] [INFO] Momentum Tracker starting...
+[2025-12-24 10:25:53] [INFO] Database initialized successfully
+[2025-12-24 10:25:54] [INFO] Activity monitoring started
+[2025-12-24 10:25:54] [INFO] Application initialized successfully
+[2025-12-24 10:25:54] [INFO] Starting main loop
+[2025-12-24 10:30:04] [INFO] Triggering popup at 10:30
+[2025-12-24 10:30:11] [INFO] Added activity log: Chilling (15 min) at 2025-12-24 10:30:11.929388
+[2025-12-24 10:30:11] [INFO] Activity logged: Chilling - 
+[2025-12-24 10:45:04] [INFO] Triggering popup at 10:45
+[2025-12-24 10:45:06] [INFO] Added activity log: Chilling (15 min) at 2025-12-24 10:45:06.183030
+[2025-12-24 10:45:06] [INFO] Activity logged: Chilling - 
+[2025-12-24 11:00:04] [INFO] Triggering popup at 11:00
+[2025-12-24 11:11:19] [INFO] Added activity log: Chilling (15 min) at 2025-12-24 11:11:19.172288
+[2025-12-24 11:11:19] [INFO] Activity logged: Chilling - 
+[2025-12-24 11:15:04] [INFO] Triggering popup at 11:15
+[2025-12-24 11:16:23] [INFO] Added activity log: Chilling (15 min) at 2025-12-24 11:16:23.216618
+[2025-12-24 11:16:23] [INFO] Activity logged: Chilling - 
+[2025-12-24 11:30:04] [INFO] Triggering popup at 11:30
+[2025-12-24 11:34:52] [INFO] Added activity log: Chilling (15 min) at 2025-12-24 11:34:52.330610
+[2025-12-24 11:34:52] [INFO] Activity logged: Chilling - 
+[2025-12-24 11:45:04] [INFO] Triggering popup at 11:45
+[2025-12-24 11:45:06] [INFO] Added activity log: Chilling (15 min) at 2025-12-24 11:45:06.896966
+[2025-12-24 11:45:06] [INFO] Activity logged: Chilling - 
+[2025-12-24 12:00:04] [INFO] Triggering popup at 12:00
+[2025-12-24 12:00:34] [INFO] Added activity log: Working (15 min) at 2025-12-24 12:00:34.527152
+[2025-12-24 12:00:34] [INFO] Activity logged: Working - 
+[2025-12-24 12:15:04] [INFO] Triggering popup at 12:15
+[2025-12-24 12:15:05] [INFO] Added activity log: Working (15 min) at 2025-12-24 12:15:05.785258
+[2025-12-24 12:15:05] [INFO] Activity logged: Working - 
+[2025-12-24 12:30:04] [INFO] Triggering popup at 12:30
+[2025-12-24 12:30:09] [INFO] Added activity log: Chilling (15 min) at 2025-12-24 12:30:09.224089
+[2025-12-24 12:30:09] [INFO] Activity logged: Chilling - 
+[2025-12-24 12:33:04] [INFO] ==================================================
+[2025-12-24 12:33:04] [INFO] Momentum Tracker starting...
+[2025-12-24 12:33:04] [INFO] Database initialized successfully
+[2025-12-24 12:33:05] [INFO] Activity monitoring started
+[2025-12-24 12:33:05] [INFO] Application initialized successfully
+[2025-12-24 12:33:05] [INFO] Starting main loop
+[2025-12-24 12:33:14] [INFO] Snoozing for 120 minutes (until 2025-12-24 14:33:14.650170)
+[2025-12-24 12:33:28] [INFO] Cleaning up...
+[2025-12-24 12:33:30] [INFO] Activity monitoring stopped
+[2025-12-24 12:33:30] [INFO] Application closed
+[2025-12-24 13:39:58] [INFO] ==================================================
+[2025-12-24 13:39:58] [INFO] Momentum Tracker starting...
+[2025-12-24 13:39:58] [INFO] Database initialized successfully
+[2025-12-24 13:39:59] [INFO] Activity monitoring started
+[2025-12-24 13:39:59] [INFO] Application initialized successfully
+[2025-12-24 13:39:59] [INFO] Starting main loop
+[2025-12-24 13:45:04] [INFO] Triggering popup at 13:45
+[2025-12-24 13:51:57] [INFO] Snoozing for 60 minutes (until 2025-12-24 14:51:57.727857)
+[2025-12-24 15:00:04] [INFO] Triggering popup at 15:00
+[2025-12-24 15:00:09] [INFO] Snoozing for 60 minutes (until 2025-12-24 16:00:09.875466)
+[2025-12-24 16:00:14] [INFO] Triggering popup at 16:00
+[2025-12-24 16:04:13] [INFO] Snoozing for 60 minutes (until 2025-12-24 17:04:13.075384)
+[2025-12-24 17:15:01] [INFO] Triggering popup at 17:15
+[2025-12-24 17:25:07] [INFO] Added activity log: Chilling (15 min) at 2025-12-24 17:25:07.276122
+[2025-12-24 17:25:07] [INFO] Activity logged: Chilling - 
+[2025-12-24 17:30:01] [INFO] Triggering popup at 17:30
+[2025-12-24 17:45:01] [INFO] Triggering popup at 17:45
+[2025-12-24 17:50:05] [INFO] Added activity log: Chilling (15 min) at 2025-12-24 17:50:05.163573
+[2025-12-24 17:50:05] [INFO] Activity logged: Chilling - 
+[2025-12-24 18:00:01] [INFO] Triggering popup at 18:00
+[2025-12-24 18:00:05] [INFO] Added activity log: Chilling (15 min) at 2025-12-24 18:00:05.566618
+[2025-12-24 18:00:05] [INFO] Activity logged: Chilling - 
+[2025-12-24 18:15:01] [INFO] Triggering popup at 18:15
+[2025-12-24 18:15:07] [INFO] Added activity log: Chilling (15 min) at 2025-12-24 18:15:07.962112
+[2025-12-24 18:15:07] [INFO] Activity logged: Chilling - 
+[2025-12-24 18:17:06] [INFO] ==================================================
+[2025-12-24 18:17:06] [INFO] Momentum Tracker starting...
+[2025-12-24 18:17:06] [INFO] Database initialized successfully
+[2025-12-24 18:17:06] [INFO] Activity monitoring started
+[2025-12-24 18:17:06] [INFO] Application initialized successfully
+[2025-12-24 18:17:06] [INFO] Starting main loop
+[2025-12-24 18:17:35] [INFO] Cleaning up...
+[2025-12-24 18:17:36] [INFO] Activity monitoring stopped
+[2025-12-24 18:17:36] [INFO] Application closed
+[2025-12-24 18:18:43] [INFO] ==================================================
+[2025-12-24 18:18:43] [INFO] Momentum Tracker starting...
+[2025-12-24 18:18:43] [INFO] Database initialized successfully
+[2025-12-24 18:18:43] [INFO] Activity monitoring started
+[2025-12-24 18:18:43] [INFO] Application initialized successfully
+[2025-12-24 18:18:43] [INFO] Starting main loop
+[2025-12-24 18:23:53] [INFO] Added activity log: Working (60 min) at 2025-12-24 18:23:53.099583
+[2025-12-24 18:23:53] [INFO] Activity logged: Working - Designed - Unimak (60m)
+[2025-12-24 18:23:54] [INFO] Snoozing for 60 minutes (until 2025-12-24 19:23:54.240246)
+[2025-12-24 18:38:05] [INFO] ==================================================
+[2025-12-24 18:38:05] [INFO] Momentum Tracker starting...
+[2025-12-24 18:38:05] [INFO] Database initialized successfully
+[2025-12-24 18:38:05] [INFO] Activity monitoring started
+[2025-12-24 18:38:05] [INFO] Application initialized successfully
+[2025-12-24 18:38:05] [INFO] Starting main loop
+[2025-12-24 18:45:00] [INFO] Triggering popup at 18:45
+[2025-12-24 18:45:08] [INFO] Added activity log: Working (60 min) at 2025-12-24 18:45:08.037764
+[2025-12-24 18:45:08] [INFO] Activity logged: Working - Same (60m)
+[2025-12-24 18:45:09] [INFO] Snoozing for 60 minutes (until 2025-12-24 19:45:09.116380)
+[2025-12-24 19:45:10] [INFO] Triggering popup at 19:45
+[2025-12-24 19:49:56] [INFO] Added activity log: Working (120 min) at 2025-12-24 19:49:56.895080
+[2025-12-24 19:49:56] [INFO] Activity logged: Working - GYM (120m)
+[2025-12-24 19:49:58] [INFO] Snoozing for 120 minutes (until 2025-12-24 21:49:58.074359)
+[2025-12-24 20:36:09] [INFO] ==================================================
+[2025-12-24 20:36:09] [INFO] Momentum Tracker starting...
+[2025-12-24 20:36:09] [INFO] Database initialized successfully
+[2025-12-24 20:36:09] [INFO] Activity monitoring started
+[2025-12-24 20:36:09] [INFO] Application initialized successfully
+[2025-12-24 20:36:09] [INFO] Starting main loop
+[2025-12-24 20:36:33] [INFO] Activity monitoring stopped
+[2025-12-24 20:36:33] [INFO] Activity monitoring started
+[2025-12-24 20:36:34] [INFO] Cleaning up...
+[2025-12-24 20:36:36] [INFO] Activity monitoring stopped
+[2025-12-24 20:36:36] [INFO] Application closed
+[2025-12-24 20:39:18] [INFO] ==================================================
+[2025-12-24 20:39:18] [INFO] Momentum Tracker starting...
+[2025-12-24 20:39:18] [INFO] Database initialized successfully
+[2025-12-24 20:39:18] [INFO] Activity monitoring started
+[2025-12-24 20:39:18] [INFO] Application initialized successfully
+[2025-12-24 20:39:18] [INFO] Starting main loop
+[2025-12-24 20:45:03] [INFO] Triggering popup at 20:45
+[2025-12-24 20:45:28] [INFO] Added activity log: Working (240 min) at 2025-12-24 20:45:28.155369
+[2025-12-24 20:45:28] [INFO] Activity logged: Working - UNIMAK Self hosting (240m)
+[2025-12-24 20:45:29] [INFO] Snoozing for 240 minutes (until 2025-12-25 00:45:29.034096)
+[2025-12-25 00:45:31] [INFO] Triggering popup at 00:45
+[2025-12-25 00:45:34] [INFO] Added activity log: Working (15 min) at 2025-12-25 00:45:34.581969
+[2025-12-25 00:45:34] [INFO] Activity logged: Working -  (15m)
+[2025-12-25 01:00:01] [INFO] Triggering popup at 01:00
+[2025-12-25 01:01:42] [INFO] Added activity log: Working (15 min) at 2025-12-25 01:01:42.740730
+[2025-12-25 01:01:42] [INFO] Activity logged: Working -  (15m)
+[2025-12-25 01:15:01] [INFO] Triggering popup at 01:15
+[2025-12-25 01:15:03] [INFO] Added activity log: Working (15 min) at 2025-12-25 01:15:03.172091
+[2025-12-25 01:15:03] [INFO] Activity logged: Working -  (15m)
+[2025-12-25 01:30:01] [INFO] Triggering popup at 01:30
+[2025-12-25 01:30:03] [INFO] Added activity log: Working (15 min) at 2025-12-25 01:30:03.931183
+[2025-12-25 01:30:03] [INFO] Activity logged: Working -  (15m)
+[2025-12-25 01:45:01] [INFO] Triggering popup at 01:45
+[2025-12-25 01:45:12] [INFO] Added activity log: Working (60 min) at 2025-12-25 01:45:12.668017
+[2025-12-25 01:45:12] [INFO] Activity logged: Working - UNIMAK (60m)
+[2025-12-25 01:45:13] [INFO] Snoozing for 60 minutes (until 2025-12-25 02:45:13.722635)

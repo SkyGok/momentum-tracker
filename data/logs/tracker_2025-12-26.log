@@ -1,0 +1,30 @@
+[2025-12-26 08:31:56] [INFO] ==================================================
+[2025-12-26 08:31:56] [INFO] Momentum Tracker starting...
+[2025-12-26 08:31:56] [INFO] Database initialized successfully
+[2025-12-26 08:31:57] [INFO] Activity monitoring started
+[2025-12-26 08:31:57] [INFO] Application initialized successfully
+[2025-12-26 08:31:57] [INFO] Starting main loop
+[2025-12-26 08:45:02] [INFO] Triggering popup at 08:45
+[2025-12-26 09:00:02] [INFO] Triggering popup at 09:00
+[2025-12-26 09:15:02] [INFO] Triggering popup at 09:15
+[2025-12-26 09:17:07] [INFO] Added activity log: Chilling (15 min) at 2025-12-26 09:17:07.429759
+[2025-12-26 09:17:07] [INFO] Activity logged: Chilling -  (15m)
+[2025-12-26 09:30:00] [INFO] Triggering popup at 09:30
+[2025-12-26 09:30:01] [INFO] Added activity log: Chilling (15 min) at 2025-12-26 09:30:01.933850
+[2025-12-26 09:30:01] [INFO] Activity logged: Chilling -  (15m)
+[2025-12-26 09:45:00] [INFO] Triggering popup at 09:45
+[2025-12-26 09:45:03] [INFO] Added activity log: Working (15 min) at 2025-12-26 09:45:03.192545
+[2025-12-26 09:45:03] [INFO] Activity logged: Working -  (15m)
+[2025-12-26 10:00:00] [INFO] Triggering popup at 10:00
+[2025-12-26 10:14:02] [INFO] Added activity log: Chilling (15 min) at 2025-12-26 10:14:02.166289
+[2025-12-26 10:14:02] [INFO] Activity logged: Chilling -  (15m)
+[2025-12-26 10:15:00] [INFO] Triggering popup at 10:15
+[2025-12-26 10:16:14] [INFO] Added activity log: Chilling (15 min) at 2025-12-26 10:16:14.101447
+[2025-12-26 10:16:14] [INFO] Activity logged: Chilling -  (15m)
+[2025-12-26 10:30:00] [INFO] Triggering popup at 10:30
+[2025-12-26 10:30:03] [INFO] Added activity log: Working (15 min) at 2025-12-26 10:30:03.795869
+[2025-12-26 10:30:03] [INFO] Activity logged: Working -  (15m)
+[2025-12-26 10:45:00] [INFO] Triggering popup at 10:45
+[2025-12-26 11:00:00] [INFO] Triggering popup at 11:00
+[2025-12-26 11:05:33] [INFO] Added activity log: Working (15 min) at 2025-12-26 11:05:33.346941
+[2025-12-26 11:05:33] [INFO] Activity logged: Working -  (15m)

@@ -53,7 +53,8 @@ class MomentumTrackerApp:
             self.database,
             self.config,
             self.logger,
-            on_submit=self._on_activity_logged
+            on_submit=self._on_activity_logged,
+            on_snooze=self.activity_controller.snooze
         )
         
         # Initialize UI

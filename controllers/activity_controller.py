@@ -24,6 +24,7 @@ class ActivityController:
         self.logger = logger
         self._lock = threading.Lock()
         self._last_popup_time: Optional[str] = None
+        self._snooze_until: Optional[datetime] = None
         self._popup_callback: Optional[Callable] = None
         self._running = False
         self._thread: Optional[threading.Thread] = None
@@ -31,6 +32,17 @@ class ActivityController:
     def set_popup_callback(self, callback: Callable):
         """Set the callback function to show popup."""
         self._popup_callback = callback
+
+    def snooze(self, minutes: int):
+        """
+        Snooze tracking for a specified duration.
+        
+        Args:
+            minutes: Number of minutes to snooze
+        """
+        self._snooze_until = datetime.now() + timedelta(minutes=minutes)
+        if self.logger:
+            self.logger.info(f"Snoozing for {minutes} minutes (until {self._snooze_until})")
     
     def start_monitoring(self):
         """Start the background monitoring thread."""
@@ -64,6 +76,17 @@ class ActivityController:
                 
                 # Check if we're at an interval mark
                 if minute % interval == 0:
+                    # Check snooze
+                    if self._snooze_until and now < self._snooze_until:
+                        if self.logger:
+                            # Log periodically or just once? Let's just debug logging to avoid spam
+                            # But since this runs every 5s, we should avoid spamming logs.
+                            # We can log provided we haven't logged recently about this, but for now silent is fine.
+                            pass
+                        time.sleep(5)
+                        continue
+
+                    time_key = now.strftime("%H:%M")
                     time_key = now.strftime("%H:%M")
                     
                     with self._lock:

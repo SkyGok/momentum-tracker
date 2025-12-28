@@ -1,0 +1,210 @@
+[2025-12-19 10:24:45] [INFO] ==================================================
+[2025-12-19 10:24:45] [INFO] Momentum Tracker starting...
+[2025-12-19 10:24:45] [INFO] Database initialized successfully
+[2025-12-19 10:24:45] [INFO] Activity monitoring started
+[2025-12-19 10:24:45] [INFO] Application initialized successfully
+[2025-12-19 10:24:45] [INFO] Starting main loop
+[2025-12-19 10:30:00] [INFO] Triggering popup at 10:30
+[2025-12-19 10:30:03] [INFO] Added activity log: Chilling (15 min) at 2025-12-19 10:30:03.273085
+[2025-12-19 10:30:03] [INFO] Activity logged: Chilling - 
+[2025-12-19 10:45:00] [INFO] Triggering popup at 10:45
+[2025-12-19 10:45:20] [INFO] Added activity log: Chilling (15 min) at 2025-12-19 10:45:20.783525
+[2025-12-19 10:45:20] [INFO] Activity logged: Chilling - 
+[2025-12-19 11:00:00] [INFO] Triggering popup at 11:00
+[2025-12-19 11:00:03] [INFO] Added activity log: Chilling (15 min) at 2025-12-19 11:00:03.894012
+[2025-12-19 11:00:03] [INFO] Activity logged: Chilling - 
+[2025-12-19 11:15:01] [INFO] Triggering popup at 11:15
+[2025-12-19 11:15:48] [INFO] Added activity log: Chilling (15 min) at 2025-12-19 11:15:48.695129
+[2025-12-19 11:15:48] [INFO] Activity logged: Chilling - 
+[2025-12-19 11:30:01] [INFO] Triggering popup at 11:30
+[2025-12-19 11:30:07] [INFO] Added activity log: Chilling (15 min) at 2025-12-19 11:30:07.536802
+[2025-12-19 11:30:07] [INFO] Activity logged: Chilling - 
+[2025-12-19 11:45:01] [INFO] Triggering popup at 11:45
+[2025-12-19 12:00:01] [INFO] Triggering popup at 12:00
+[2025-12-19 12:15:01] [INFO] Triggering popup at 12:15
+[2025-12-19 12:26:27] [INFO] Added activity log: Chilling (15 min) at 2025-12-19 12:26:27.239252
+[2025-12-19 12:26:27] [INFO] Activity logged: Chilling - 
+[2025-12-19 12:30:02] [INFO] Triggering popup at 12:30
+[2025-12-19 12:30:03] [INFO] Added activity log: Chilling (15 min) at 2025-12-19 12:30:03.730348
+[2025-12-19 12:30:03] [INFO] Activity logged: Chilling - 
+[2025-12-19 12:45:02] [INFO] Triggering popup at 12:45
+[2025-12-19 12:54:09] [INFO] Added activity log: Chilling (15 min) at 2025-12-19 12:54:09.646372
+[2025-12-19 12:54:09] [INFO] Activity logged: Chilling - 
+[2025-12-19 13:00:02] [INFO] Triggering popup at 13:00
+[2025-12-19 13:01:36] [INFO] Added activity log: Chilling (15 min) at 2025-12-19 13:01:36.383957
+[2025-12-19 13:01:36] [INFO] Activity logged: Chilling - 
+[2025-12-19 13:15:02] [INFO] Triggering popup at 13:15
+[2025-12-19 13:19:05] [INFO] Added activity log: Chilling (15 min) at 2025-12-19 13:19:05.700365
+[2025-12-19 13:19:05] [INFO] Activity logged: Chilling - 
+[2025-12-19 13:28:36] [INFO] ==================================================
+[2025-12-19 13:28:36] [INFO] Momentum Tracker starting...
+[2025-12-19 13:28:36] [INFO] Database initialized successfully
+[2025-12-19 13:28:36] [INFO] Activity monitoring started
+[2025-12-19 13:28:36] [INFO] Application initialized successfully
+[2025-12-19 13:28:36] [INFO] Starting main loop
+[2025-12-19 13:30:01] [INFO] Triggering popup at 13:30
+[2025-12-19 13:30:11] [INFO] Added activity log: Chilling (15 min) at 2025-12-19 13:30:11.169344
+[2025-12-19 13:30:11] [INFO] Activity logged: Chilling - 
+[2025-12-19 13:45:02] [INFO] Triggering popup at 13:45
+[2025-12-19 13:45:03] [INFO] Added activity log: Chilling (15 min) at 2025-12-19 13:45:03.350679
+[2025-12-19 13:45:03] [INFO] Activity logged: Chilling - 
+[2025-12-19 13:50:24] [INFO] ==================================================
+[2025-12-19 13:50:24] [INFO] Momentum Tracker starting...
+[2025-12-19 13:50:24] [INFO] Database initialized successfully
+[2025-12-19 13:50:24] [INFO] Activity monitoring started
+[2025-12-19 13:50:24] [INFO] Application initialized successfully
+[2025-12-19 13:50:24] [INFO] Starting main loop
+[2025-12-19 14:00:04] [INFO] Triggering popup at 14:00
+[2025-12-19 14:01:47] [INFO] Added activity log: Chilling (15 min) at 2025-12-19 14:01:47.159921
+[2025-12-19 14:01:47] [INFO] Activity logged: Chilling - 
+[2025-12-19 14:15:04] [INFO] Triggering popup at 14:15
+[2025-12-19 14:15:38] [INFO] Added activity log: Chilling (15 min) at 2025-12-19 14:15:38.282330
+[2025-12-19 14:15:38] [INFO] Activity logged: Chilling - 
+[2025-12-19 14:30:04] [INFO] Triggering popup at 14:30
+[2025-12-19 14:45:04] [INFO] Triggering popup at 14:45
+[2025-12-19 15:00:04] [INFO] Triggering popup at 15:00
+[2025-12-19 15:28:29] [INFO] Added activity log: Chilling (15 min) at 2025-12-19 15:28:29.137324
+[2025-12-19 15:28:29] [INFO] Activity logged: Chilling - 
+[2025-12-19 15:30:01] [INFO] Triggering popup at 15:30
+[2025-12-19 15:30:02] [INFO] Added activity log: Working (15 min) at 2025-12-19 15:30:02.126588
+[2025-12-19 15:30:02] [INFO] Activity logged: Working - 
+[2025-12-19 15:45:02] [INFO] Triggering popup at 15:45
+[2025-12-19 15:49:24] [INFO] Added activity log: Working (15 min) at 2025-12-19 15:49:24.793394
+[2025-12-19 15:49:24] [INFO] Activity logged: Working - 
+[2025-12-19 16:00:02] [INFO] Triggering popup at 16:00
+[2025-12-19 16:15:02] [INFO] Triggering popup at 16:15
+[2025-12-19 16:24:12] [INFO] Added activity log: Working (15 min) at 2025-12-19 16:24:12.117077
+[2025-12-19 16:24:12] [INFO] Activity logged: Working - 
+[2025-12-19 16:30:02] [INFO] Triggering popup at 16:30
+[2025-12-19 16:30:05] [INFO] Added activity log: Working (15 min) at 2025-12-19 16:30:05.585141
+[2025-12-19 16:30:05] [INFO] Activity logged: Working - 
+[2025-12-19 16:45:02] [INFO] Triggering popup at 16:45
+[2025-12-19 16:45:11] [INFO] Added activity log: Working (15 min) at 2025-12-19 16:45:11.784061
+[2025-12-19 16:45:11] [INFO] Activity logged: Working - 
+[2025-12-19 17:00:02] [INFO] Triggering popup at 17:00
+[2025-12-19 17:15:02] [INFO] Triggering popup at 17:15
+[2025-12-19 17:18:28] [INFO] Added activity log: Working (15 min) at 2025-12-19 17:18:28.039706
+[2025-12-19 17:18:28] [INFO] Activity logged: Working - 
+[2025-12-19 17:30:02] [INFO] Triggering popup at 17:30
+[2025-12-19 17:30:04] [INFO] Added activity log: Working (15 min) at 2025-12-19 17:30:04.177541
+[2025-12-19 17:30:04] [INFO] Activity logged: Working - 
+[2025-12-19 17:45:02] [INFO] Triggering popup at 17:45
+[2025-12-19 17:55:11] [INFO] Added activity log: Working (15 min) at 2025-12-19 17:55:11.921002
+[2025-12-19 17:55:11] [INFO] Activity logged: Working - 
+[2025-12-19 18:00:02] [INFO] Triggering popup at 18:00
+[2025-12-19 18:00:07] [INFO] Added activity log: Working (15 min) at 2025-12-19 18:00:07.060790
+[2025-12-19 18:00:07] [INFO] Activity logged: Working - 
+[2025-12-19 18:15:03] [INFO] Triggering popup at 18:15
+[2025-12-19 18:15:05] [INFO] Added activity log: Working (15 min) at 2025-12-19 18:15:05.868468
+[2025-12-19 18:15:05] [INFO] Activity logged: Working - 
+[2025-12-19 18:30:03] [INFO] Triggering popup at 18:30
+[2025-12-19 18:30:37] [INFO] Added activity log: Working (15 min) at 2025-12-19 18:30:37.406542
+[2025-12-19 18:30:37] [INFO] Activity logged: Working - 
+[2025-12-19 18:45:03] [INFO] Triggering popup at 18:45
+[2025-12-19 18:45:06] [INFO] Added activity log: Working (15 min) at 2025-12-19 18:45:06.034381
+[2025-12-19 18:45:06] [INFO] Activity logged: Working - 
+[2025-12-19 19:00:03] [INFO] Triggering popup at 19:00
+[2025-12-19 19:00:05] [INFO] Added activity log: Working (15 min) at 2025-12-19 19:00:05.050074
+[2025-12-19 19:00:05] [INFO] Activity logged: Working - 
+[2025-12-19 19:15:03] [INFO] Triggering popup at 19:15
+[2025-12-19 19:15:05] [INFO] Added activity log: Working (15 min) at 2025-12-19 19:15:05.922586
+[2025-12-19 19:15:05] [INFO] Activity logged: Working - 
+[2025-12-19 19:30:03] [INFO] Triggering popup at 19:30
+[2025-12-19 19:30:08] [INFO] Added activity log: Working (15 min) at 2025-12-19 19:30:08.382186
+[2025-12-19 19:30:08] [INFO] Activity logged: Working - 
+[2025-12-19 19:45:03] [INFO] Triggering popup at 19:45
+[2025-12-19 19:45:25] [INFO] Added activity log: Working (15 min) at 2025-12-19 19:45:25.327550
+[2025-12-19 19:45:25] [INFO] Activity logged: Working - 
+[2025-12-19 20:00:03] [INFO] Triggering popup at 20:00
+[2025-12-19 20:00:06] [INFO] Added activity log: Working (15 min) at 2025-12-19 20:00:06.125956
+[2025-12-19 20:00:06] [INFO] Activity logged: Working - 
+[2025-12-19 20:15:03] [INFO] Triggering popup at 20:15
+[2025-12-19 20:15:15] [INFO] Added activity log: Working (15 min) at 2025-12-19 20:15:15.546598
+[2025-12-19 20:15:15] [INFO] Activity logged: Working - 
+[2025-12-19 20:30:03] [INFO] Triggering popup at 20:30
+[2025-12-19 20:45:03] [INFO] Triggering popup at 20:45
+[2025-12-19 20:46:04] [INFO] Added activity log: Working (15 min) at 2025-12-19 20:46:04.489913
+[2025-12-19 20:46:04] [INFO] Activity logged: Working - 
+[2025-12-19 20:49:40] [INFO] ==================================================
+[2025-12-19 20:49:40] [INFO] Momentum Tracker starting...
+[2025-12-19 20:49:40] [INFO] Database initialized successfully
+[2025-12-19 20:49:40] [INFO] Activity monitoring started
+[2025-12-19 20:49:40] [INFO] Application initialized successfully
+[2025-12-19 20:49:40] [INFO] Starting main loop
+[2025-12-19 21:00:00] [INFO] Triggering popup at 21:00
+[2025-12-19 21:03:58] [INFO] Added activity log: Chilling (15 min) at 2025-12-19 21:03:58.523900
+[2025-12-19 21:03:58] [INFO] Activity logged: Chilling - 
+[2025-12-19 21:15:00] [INFO] Triggering popup at 21:15
+[2025-12-19 21:18:44] [INFO] Added activity log: Working (15 min) at 2025-12-19 21:18:44.865344
+[2025-12-19 21:18:44] [INFO] Activity logged: Working - 
+[2025-12-19 21:30:00] [INFO] Triggering popup at 21:30
+[2025-12-19 21:30:03] [INFO] Added activity log: Working (15 min) at 2025-12-19 21:30:03.511611
+[2025-12-19 21:30:03] [INFO] Activity logged: Working - 
+[2025-12-19 21:45:00] [INFO] Triggering popup at 21:45
+[2025-12-19 21:45:05] [INFO] Added activity log: Business (15 min) at 2025-12-19 21:45:05.394714
+[2025-12-19 21:45:05] [INFO] Activity logged: Business - 
+[2025-12-19 22:00:00] [INFO] Triggering popup at 22:00
+[2025-12-19 22:00:03] [INFO] Added activity log: Business (15 min) at 2025-12-19 22:00:03.500847
+[2025-12-19 22:00:03] [INFO] Activity logged: Business - 
+[2025-12-19 22:15:00] [INFO] Triggering popup at 22:15
+[2025-12-19 22:16:48] [INFO] Added activity log: Working (15 min) at 2025-12-19 22:16:48.892761
+[2025-12-19 22:16:48] [INFO] Activity logged: Working - 
+[2025-12-19 22:30:00] [INFO] Triggering popup at 22:30
+[2025-12-19 22:32:25] [INFO] Added activity log: Working (15 min) at 2025-12-19 22:32:25.755110
+[2025-12-19 22:32:25] [INFO] Activity logged: Working - 
+[2025-12-19 22:45:00] [INFO] Triggering popup at 22:45
+[2025-12-19 22:54:08] [INFO] Added activity log: Working (15 min) at 2025-12-19 22:54:08.172415
+[2025-12-19 22:54:08] [INFO] Activity logged: Working - 
+[2025-12-19 23:00:00] [INFO] Triggering popup at 23:00
+[2025-12-19 23:05:51] [INFO] Added activity log: Working (15 min) at 2025-12-19 23:05:51.880206
+[2025-12-19 23:05:51] [INFO] Activity logged: Working - 
+[2025-12-19 23:15:00] [INFO] Triggering popup at 23:15
+[2025-12-19 23:18:26] [INFO] Added activity log: Working (15 min) at 2025-12-19 23:18:26.912370
+[2025-12-19 23:18:26] [INFO] Activity logged: Working - 
+[2025-12-19 23:30:01] [INFO] Triggering popup at 23:30
+[2025-12-19 23:30:01] [INFO] Added activity log: Working (15 min) at 2025-12-19 23:30:01.222741
+[2025-12-19 23:30:01] [INFO] Activity logged: Working - 
+[2025-12-19 23:45:01] [INFO] Triggering popup at 23:45
+[2025-12-19 23:48:52] [INFO] Added activity log: Working (15 min) at 2025-12-19 23:48:52.990804
+[2025-12-19 23:48:53] [INFO] Activity logged: Working - 
+[2025-12-20 00:00:01] [INFO] Triggering popup at 00:00
+[2025-12-20 00:01:35] [INFO] Added activity log: Working (15 min) at 2025-12-20 00:01:35.409334
+[2025-12-20 00:01:35] [INFO] Activity logged: Working - 
+[2025-12-20 00:15:01] [INFO] Triggering popup at 00:15
+[2025-12-20 00:17:45] [INFO] Added activity log: Working (15 min) at 2025-12-20 00:17:45.204653
+[2025-12-20 00:17:45] [INFO] Activity logged: Working - 
+[2025-12-20 00:30:01] [INFO] Triggering popup at 00:30
+[2025-12-20 00:45:01] [INFO] Triggering popup at 00:45
+[2025-12-20 01:00:01] [INFO] Triggering popup at 01:00
+[2025-12-20 01:04:52] [INFO] Added activity log: Working (15 min) at 2025-12-20 01:04:52.496528
+[2025-12-20 01:04:52] [INFO] Activity logged: Working - 
+[2025-12-20 01:15:01] [INFO] Triggering popup at 01:15
+[2025-12-20 01:15:07] [INFO] Added activity log: Working (15 min) at 2025-12-20 01:15:07.764570
+[2025-12-20 01:15:07] [INFO] Activity logged: Working - 
+[2025-12-20 01:30:01] [INFO] Triggering popup at 01:30
+[2025-12-20 01:30:05] [INFO] Added activity log: Working (15 min) at 2025-12-20 01:30:05.816855
+[2025-12-20 01:30:05] [INFO] Activity logged: Working - 
+[2025-12-20 01:45:01] [INFO] Triggering popup at 01:45
+[2025-12-20 01:45:05] [INFO] Added activity log: Working (15 min) at 2025-12-20 01:45:05.240480
+[2025-12-20 01:45:05] [INFO] Activity logged: Working - 
+[2025-12-20 02:00:01] [INFO] Triggering popup at 02:00
+[2025-12-20 02:00:03] [INFO] Added activity log: Working (15 min) at 2025-12-20 02:00:03.804886
+[2025-12-20 02:00:03] [INFO] Activity logged: Working - 
+[2025-12-20 02:15:01] [INFO] Triggering popup at 02:15
+[2025-12-20 02:23:24] [INFO] Added activity log: Working (15 min) at 2025-12-20 02:23:24.575695
+[2025-12-20 02:23:24] [INFO] Activity logged: Working - 
+[2025-12-20 02:30:01] [INFO] Triggering popup at 02:30
+[2025-12-20 02:30:06] [INFO] Added activity log: Chilling (15 min) at 2025-12-20 02:30:06.784552
+[2025-12-20 02:30:06] [INFO] Activity logged: Chilling - 
+[2025-12-20 02:45:01] [INFO] Triggering popup at 02:45
+[2025-12-20 02:45:09] [INFO] Added activity log: Chilling (15 min) at 2025-12-20 02:45:09.826732
+[2025-12-20 02:45:09] [INFO] Activity logged: Chilling - 
+[2025-12-20 03:00:01] [INFO] Triggering popup at 03:00
+[2025-12-20 03:01:42] [INFO] Added activity log: Working (15 min) at 2025-12-20 03:01:42.949259
+[2025-12-20 03:01:42] [INFO] Activity logged: Working - 
+[2025-12-20 03:15:01] [INFO] Triggering popup at 03:15
+[2025-12-20 03:20:33] [INFO] Added activity log: Chilling (15 min) at 2025-12-20 03:20:33.658102
+[2025-12-20 03:20:33] [INFO] Activity logged: Chilling - 
+[2025-12-20 03:30:01] [INFO] Triggering popup at 03:30
+[2025-12-20 03:30:05] [INFO] Added activity log: Chilling (15 min) at 2025-12-20 03:30:05.380603
+[2025-12-20 03:30:05] [INFO] Activity logged: Chilling - 

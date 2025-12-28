@@ -12,6 +12,7 @@ from controllers.activity_controller import ActivityController
 from controllers.analytics_controller import AnalyticsController
 from controllers.popup_controller import PopupController
 from ui.calendar_view import CalendarView
+from ui.reports_view import ReportsView
 from utils.config import Config
 
 
@@ -95,6 +96,15 @@ class MainWindow:
         calendar_frame = tk.Frame(notebook, bg="#f5f5f5")
         notebook.add(calendar_frame, text="Calendar")
         self.calendar_view = CalendarView(calendar_frame, self.activity_controller)
+        
+        # Reports tab
+        reports_frame = tk.Frame(notebook, bg="#f5f5f5")
+        notebook.add(reports_frame, text="Reports")
+        self.reports_view = ReportsView(
+            reports_frame,
+            self.activity_controller,
+            self.analytics_controller
+        )
         
         # Bottom action bar
         bottom_frame = tk.Frame(self.root, bg="#e8f5e9", height=80)

@@ -1,0 +1,37 @@
+[2025-12-14 02:49:58] [INFO] ==================================================
+[2025-12-14 02:49:58] [INFO] Momentum Tracker starting...
+[2025-12-14 02:49:58] [INFO] Database initialized successfully
+[2025-12-14 02:49:58] [INFO] Activity monitoring started
+[2025-12-14 02:49:58] [INFO] Application initialized successfully
+[2025-12-14 02:49:58] [INFO] Starting main loop
+[2025-12-14 12:26:18] [INFO] ==================================================
+[2025-12-14 12:26:18] [INFO] Momentum Tracker starting...
+[2025-12-14 12:26:18] [INFO] Database initialized successfully
+[2025-12-14 12:26:18] [INFO] Activity monitoring started
+[2025-12-14 12:26:18] [INFO] Application initialized successfully
+[2025-12-14 12:26:18] [INFO] Starting main loop
+[2025-12-14 12:30:03] [INFO] Triggering popup at 12:30
+[2025-12-14 12:31:56] [INFO] Cleaning up...
+[2025-12-14 12:31:58] [INFO] Activity monitoring stopped
+[2025-12-14 12:31:58] [INFO] Application closed
+[2025-12-14 20:41:18] [INFO] ==================================================
+[2025-12-14 20:41:18] [INFO] Momentum Tracker starting...
+[2025-12-14 20:41:18] [INFO] Database initialized successfully
+[2025-12-14 20:41:18] [INFO] Activity monitoring started
+[2025-12-14 20:41:18] [INFO] Application initialized successfully
+[2025-12-14 20:41:18] [INFO] Starting main loop
+[2025-12-14 20:45:03] [INFO] Triggering popup at 20:45
+[2025-12-14 20:45:11] [INFO] Added activity log: Chilling (15 min) at 2025-12-14 20:45:11.116888
+[2025-12-14 20:45:11] [INFO] Activity logged: Chilling - 
+[2025-12-14 20:50:13] [INFO] Cleaning up...
+[2025-12-14 20:50:14] [INFO] Activity monitoring stopped
+[2025-12-14 20:50:14] [INFO] Application closed
+[2025-12-14 22:05:02] [INFO] ==================================================
+[2025-12-14 22:05:02] [INFO] Momentum Tracker starting...
+[2025-12-14 22:05:02] [INFO] Database initialized successfully
+[2025-12-14 22:05:02] [INFO] Activity monitoring started
+[2025-12-14 22:05:02] [INFO] Application initialized successfully
+[2025-12-14 22:05:02] [INFO] Starting main loop
+[2025-12-14 22:07:04] [INFO] Cleaning up...
+[2025-12-14 22:07:06] [INFO] Activity monitoring stopped
+[2025-12-14 22:07:06] [INFO] Application closed
